@@ -37,7 +37,7 @@ def mostrar_agenda():
 
 def menu():
     while True:
-        print("\n===== Menu =====")
+        print("\n---- Menu ----")
         print("1. Adicionar Prescrição")
         print("2. Mostrar Agenda")
         print("3. Sair")

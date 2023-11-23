@@ -1,4 +1,4 @@
-# Agenda Médica
+# Agenda Médica - MedPlan
 Este é um programa simples em Python para gerenciar uma agenda médica, permitindo que médicos insiram prescrições de medicamentos para pacientes, especificando intervalos de datas para a administração dos medicamentos.
 
 # Funcionalidades
@@ -22,4 +22,4 @@ Este é um programa simples em Python para gerenciar uma agenda médica, permiti
 <li>A agenda será exibida na tela, mostrando as prescrições para cada paciente com seus respectivos medicamentos e intervalos de datas.</li>
 
 # Autoras
-Débora da Silva Amaral e Lívia Namba Seraphim
+Débora da Silva Amaral RM 550412 e Lívia Namba Seraphim RM 97819

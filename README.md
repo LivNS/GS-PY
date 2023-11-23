@@ -23,5 +23,8 @@ Este é um programa simples em Python para gerenciar uma agenda médica, permiti
 
 # Autoras
 Débora da Silva Amaral RM 550412 e Lívia Namba Seraphim RM 97819
+<<<<<<< HEAD
 
 https://docs.google.com/document/d/1wx2UBVLfChv3D8qAaw1TAolKobE7sUJoRUsJem2miyk/edit?usp=sharing
+=======
+>>>>>>> a1b61b54f4c028737c7c802c83ab6e828a8d79ea

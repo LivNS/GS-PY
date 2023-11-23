@@ -3,7 +3,10 @@ MedPlan
 Débora da Silva Amaral RM 550412 
 Lívia Namba Seraphim RM 97819
 '''
+<<<<<<< HEAD
 
+=======
+>>>>>>> a1b61b54f4c028737c7c802c83ab6e828a8d79ea
 from datetime import datetime
 
 agenda_medica = {}
